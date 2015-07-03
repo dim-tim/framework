@@ -1,0 +1,30 @@
+## Plugin-specific files:
+
+# IntelliJ
+out/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+*.class
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+
+
+*/out/
+*/.idea/
+*/*.iml
+*/*.iws
+*/*.class
+*/log/
+*/target/
+*/lib/
+*/logs/
